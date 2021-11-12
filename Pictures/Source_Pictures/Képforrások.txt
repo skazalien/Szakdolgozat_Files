@@ -1,0 +1,22 @@
+1. ábra:
+https://store-usa.arduino.cc/products/arduino-mega-2560-rev3
+https://cdn.shopify.com/s/files/1/0506/1689/3647/products/A000067_03.front_763x573.jpg?v=1627401710
+
+2. ábra:
+https://www.reichelt.com/ro/en/developer-boards-esp32-camera-ov2640-debo-cam-esp32-p266036.html
+https://cdn-reichelt.de/bilder/web/artikel_ws/A300/DEBO_CAM_ESP32_001.jpg
+
+3. ábra:
+https://www.arduino.cc/en/Main/ArduinoEthernetShieldV1
+https://www.arduino.cc/en/uploads/Main/ArduinoEthernetShield_R3_Front.jpg
+
+4. ábra:
+https://lastminuteengineers.com/pir-sensor-arduino-tutorial/
+https://lastminuteengineers.com/wp-content/uploads/2019/12/Project-Interfacing-Passive-Infrared-PIR-Sensor-with-Arduino-Uno.jpg
+
+5. ábra:
+https://lastminuteengineers.com/pir-sensor-arduino-tutorial/
+https://lastminuteengineers.com/wp-content/uploads/arduino/PIR-Sensor-Pinout-with-Jumper-Setting-Sensitivity-Time-Adjustment-BISS0001-IC-Labeling-Diagram.png
+
+7. ábra:
+https://www.php.net/manual/en/intro-whatis.php
